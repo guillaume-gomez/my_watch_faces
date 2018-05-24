@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Guillaume Gomez</author>
+	<designer>Guillaume Gomez</designer>
+	<title>Test</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>Test (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:100, color:#ffffff, xoffset:0, yoffset:-50, bg:]
+    [cmdline: " -n 'Test' -f 'font.ttf' -s '100' -c '#ffffff' -b '#ff5722' -a 'Guillaume Gomez' -x '0' -g '0' -y '-50' -t '12:34' -0 '+110+245' -1 '+100+270' -2 'false' -3 'false' -4 '+100+35' -5 'false' -6 'false' -7 'false' -8 'false' -9 '+120+155' -A 'false' -B 'false' -C 'false' -D 'false' -q '1' --widget_bg '#ff6f00' --" ]
+  </description>
+</watchfaceinfo>
