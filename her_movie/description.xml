@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Guillaume Gomez</author>
+	<designer>Guillaume Gomez</designer>
+	<title>her_movie</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>her_movie (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:72, color:#ffffff, xoffset:-10, yoffset:-80, bg:/var/lib/php5/sessions/t42tmn6gem4llbbkfunhbh6om7/blob]
+    [cmdline: " -n 'her_movie' -f 'font.ttf' -s '72' -c '#ffffff' -b '#000000' -a 'Guillaume Gomez' -x '-10' -g '290' -y '-80' -t '12:34' -0 '+40+180' -1 '+150+180' -2 'false' -3 'false' -4 '+100+22' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -q '1' -u '/var/lib/php5/sessions/t42tmn6gem4llbbkfunhbh6om7/blob' --" ]
+  </description>
+</watchfaceinfo>
