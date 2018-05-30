@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Guillaume Gomez</author>
+	<designer>Guillaume Gomez</designer>
+	<title>808_and_Hearbreak_emo</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>808_and_Hearbreak_emo (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:88, color:#000000, xoffset:0, yoffset:0, bg:/var/lib/php5/sessions/ovja57neo3go7t9rbqrfo1nrm5/blob]
+    [cmdline: " -n '808_and_Hearbreak_emo' -f 'font.ttf' -s '88' -c '#000000' -b '#000000' -a 'Guillaume Gomez' -x '0' -g '270' -y '0' -t '06:20' -0 'false' -1 'false' -2 'false' -3 '+100+60' -4 '+100+22' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -q '1' -u '/var/lib/php5/sessions/ovja57neo3go7t9rbqrfo1nrm5/blob' -d --hour_image '/var/www/sawfb/public/parts/hours/hour6.png' --minute_image '/var/www/sawfb/public/parts/minutes/minute6.png' --second_image '/var/www/sawfb/public/parts/seconds/second6.png' --bg_markers '/var/www/sawfb/public/parts/markers/marker8.png' --" ]
+  </description>
+</watchfaceinfo>
