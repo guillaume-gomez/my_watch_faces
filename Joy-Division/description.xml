@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Guillaume Gomez</author>
+	<designer>Guillaume Gomez</designer>
+	<title>Joy-Division</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>Joy-Division (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:88, color:#ffffff, xoffset:0, yoffset:0, bg:/var/lib/php5/sessions/hcu89sb0rubg3vqh848ajumla0/blob]
+    [cmdline: " -n 'Joy-Division' -f 'font.ttf' -s '88' -c '#ffffff' -b '#000000' -a 'Guillaume Gomez' -x '0' -g '255' -y '0' -t '10:10' -0 'false' -1 'false' -2 'false' -3 'false' -4 '+100+45' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -q '1' -u '/var/lib/php5/sessions/hcu89sb0rubg3vqh848ajumla0/blob' -d --hour_image '/var/www/sawfb/public/parts/hours/hour22.png' --minute_image '/var/www/sawfb/public/parts/minutes/minute22.png' --second_image '/var/www/sawfb/public/parts/seconds/second22.png' --bg_markers '/var/www/sawfb/public/parts/markers/marker16.png' --" ]
+  </description>
+</watchfaceinfo>
