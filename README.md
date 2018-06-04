@@ -9,3 +9,6 @@ The different watchface i made for my smartwatch
 
 ## her 
 ![preview](her_movie/sample-face.png)
+
+## Joy division
+![preview](Joy-Division/sample-face.png)
