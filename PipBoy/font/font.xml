@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WatchFace version="1.0">
+	<WatchFaceItem type="font" charset="0" config="@wfz/font/0.png" />
+	<WatchFaceItem type="font" charset="1" config="@wfz/font/1.png" />
+	<WatchFaceItem type="font" charset="2" config="@wfz/font/2.png" />
+	<WatchFaceItem type="font" charset="3" config="@wfz/font/3.png" />
+	<WatchFaceItem type="font" charset="4" config="@wfz/font/4.png" />
+	<WatchFaceItem type="font" charset="5" config="@wfz/font/5.png" />
+	<WatchFaceItem type="font" charset="6" config="@wfz/font/6.png" />
+	<WatchFaceItem type="font" charset="7" config="@wfz/font/7.png" />
+	<WatchFaceItem type="font" charset="8" config="@wfz/font/8.png" />
+	<WatchFaceItem type="font" charset="9" config="@wfz/font/9.png" />
+	<WatchFaceItem type="font" charset=":" config="@wfz/font/sep.png" />
+</WatchFace>
