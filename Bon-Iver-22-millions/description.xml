@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Guillaume Gomez</author>
+	<designer>Guillaume Gomez</designer>
+	<title>Bon-Iver-22-millions</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>Bon-Iver-22-millions (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:62, color:#302164, xoffset:0, yoffset:10, bg:/var/lib/php5/sessions/4ogjvghhsslksn6g0okdemaaj3/blob]
+    [cmdline: " -n 'Bon-Iver-22-millions' -f 'font.ttf' -s '62' -c '#302164' -b '#000000' -a 'Guillaume Gomez' -x '0' -g '30' -y '10' -t '12:59' -0 '+10+238' -1 '+55+238' -2 'false' -3 'false' -4 '+190+90' -5 'false' -6 'false' -7 'false' -8 'false' -9 '+118+55' -A 'false' -B 'false' -C 'false' -D 'false' -q '1' -u '/var/lib/php5/sessions/4ogjvghhsslksn6g0okdemaaj3/blob' --" ]
+  </description>
+</watchfaceinfo>
