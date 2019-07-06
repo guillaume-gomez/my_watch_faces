@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>roger claude</author>
+	<designer>roger claude</designer>
+	<title>CherryCoco</title>
+	<basedOn>QuaseNadaBlack3</basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>CherryCoco (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:100, color:#b75d58, xoffset:0, yoffset:-80, bg:/var/lib/php5/sessions/k26uh64suioi9mbcpi38idqq83/blob]
+    [cmdline: " -n 'CherryCoco' -f 'font.ttf' -s '100' -c '#b75d58' -b '#000000' -a 'roger claude' -x '0' -g '400' -y '-80' -t '10:10' -0 'false' -1 'false' -2 'false' -3 'false' -4 'false' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -E 'false' -F 'false' -q '1' -u '/var/lib/php5/sessions/k26uh64suioi9mbcpi38idqq83/blob' --based_on 'QuaseNadaBlack3' --" ]
+  </description>
+</watchfaceinfo>
