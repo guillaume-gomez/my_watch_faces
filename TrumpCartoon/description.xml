@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>roger claude</author>
+	<designer>roger claude</designer>
+	<title>TrumpCartoon</title>
+	<basedOn>1</basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>TrumpCartoon (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:100, color:#00ffff, xoffset:0, yoffset:0, bg:/var/lib/php5/sessions/29a2hsd7pt6en6mu6tt93cmg27/blob]
+    [cmdline: " -n 'TrumpCartoon' -f 'font.ttf' -s '100' -c '#00ffff' -b '#000000' -a 'roger claude' -x '0' -g '266' -y '0' -t '10:10' -0 '+150+40' -1 '+60+40' -2 'false' -3 'false' -4 'false' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -E 'false' -F 'false' -q '1' -u '/var/lib/php5/sessions/29a2hsd7pt6en6mu6tt93cmg27/blob' -d --hour_image '/var/www/sawfb/public/parts/hours/hour6.png' --minute_image '/var/www/sawfb/public/parts/minutes/minute6.png' --second_image '/var/www/sawfb/public/parts/seconds/second37.png' --based_on '1' --" ]
+  </description>
+</watchfaceinfo>
