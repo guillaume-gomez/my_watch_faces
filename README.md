@@ -22,3 +22,9 @@ The different watchface i made for my smartwatch
 
 ## Russian World Cup
 ![preview](RussianWorldCup/sample-face.png)
+
+## CherryCoco
+![preview](CherryCoco/sample-face.png)
+
+## TrumpCartoon
+![preview](TrumpCartoon/sample-face.png)
