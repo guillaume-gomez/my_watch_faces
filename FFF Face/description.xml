@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>roger claude</author>
+	<designer>roger claude</designer>
+	<title>FFF-Face</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>FFF-Face (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:88, color:#00ffff, xoffset:0, yoffset:0, bg:/var/lib/php5/sessions/k88sbmb5cu2afhm9nqdb7hrdm1/blob]
+    [cmdline: " -n 'FFF-Face' -f 'font.ttf' -s '88' -c '#00ffff' -b '#000000' -a 'roger claude' -x '0' -g '266' -y '0' -t '10:10' -0 'false' -1 '+100+40' -2 'false' -3 'false' -4 'false' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -E 'false' -F 'false' -q '1' -u '/var/lib/php5/sessions/k88sbmb5cu2afhm9nqdb7hrdm1/blob' -d --hour_image '/var/lib/php5/sessions/k88sbmb5cu2afhm9nqdb7hrdm1/hours.png' --minute_image '/var/lib/php5/sessions/k88sbmb5cu2afhm9nqdb7hrdm1/minutes.png' --second_image '/var/www/sawfb/public/parts/seconds/second4.png' --bg_markers '/var/www/sawfb/public/parts/markers/marker8.png' --" ]
+  </description>
+</watchfaceinfo>
