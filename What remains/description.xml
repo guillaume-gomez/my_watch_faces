@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>roger claude</author>
+	<designer>roger claude</designer>
+	<title>What-remains</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>What-remains (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:94, color:#232428, xoffset:40, yoffset:-30, bg:/var/lib/php5/sessions/dd6u9o65glgcrqcrp4c3ll3qi1/blob]
+    [cmdline: " -n 'What-remains' -f 'font.ttf' -s '94' -c '#232428' -b '#232428' -a 'roger claude' -x '40' -g '266' -y '-30' -t '10:10' -0 '+20+238' -1 '+130+238' -2 'false' -3 'false' -4 'false' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -E 'false' -F 'false' -q '1' -u '/var/lib/php5/sessions/dd6u9o65glgcrqcrp4c3ll3qi1/blob' --" ]
+  </description>
+</watchfaceinfo>
