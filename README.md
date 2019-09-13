@@ -23,7 +23,7 @@ The different watchface i made for my smartwatch
 ![preview](RussianWorldCup/sample-face.png)
 
 ## FFF
-![preview](FFF\Face/sample-face.png)
+![preview](FFF_Face/sample-face.png)
 
 ## CherryCoco
 ![preview](CherryCoco/sample-face.png)
