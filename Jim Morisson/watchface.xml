@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WatchFace version="1.0">
+	<WatchFaceItem type="background" config="@wfz/background/01.png"/>
+  <WatchFaceItem type="statusbar" y="266" />
+  <WatchFaceItem type="timedigital" x="65" y="87" width="189" height="46" font="@wfz/font" />
+  <WatchFaceItem type="datawidget" id="0" x="190" y="238" dataType="6" model="2" configList="@wfz/datawidget_list.xml" />
+  <WatchFaceItem type="datawidget" id="0" x="20" y="238" dataType="6" model="1" configList="@wfz/datawidget_list.xml" />
+  <WatchFaceItem type="datawidget" id="0" x="100" y="22" dataType="10" model="1" configList="@wfz/datawidget_list.xml" />
+</WatchFace>

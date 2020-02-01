@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>roger claude</author>
+	<designer>roger claude</designer>
+	<title>Jim-Morisson</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>Jim-Morisson (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:72, color:#c13329, xoffset:0, yoffset:-50, bg:/var/lib/php5/sessions/hfb55almg45pmvdg503k46o3l4/blob]
+    [cmdline: " -n 'Jim-Morisson' -f 'font.ttf' -s '72' -c '#c13329' -b '#000000' -a 'roger claude' -x '0' -g '266' -y '-50' -t '23:56' -0 '+190+238' -1 '+20+238' -2 'false' -3 'false' -4 '+100+22' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -E 'false' -F 'false' -q '1' -u '/var/lib/php5/sessions/hfb55almg45pmvdg503k46o3l4/blob' --" ]
+  </description>
+</watchfaceinfo>
