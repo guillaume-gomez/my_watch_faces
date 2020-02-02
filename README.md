@@ -30,3 +30,6 @@ The different watchface i made for my smartwatch
 
 ## TrumpCartoon
 ![preview](TrumpCartoon/sample-face.png)
+
+## Jim Morrison
+![preview](Jim-Morrison/sample-face.png)
