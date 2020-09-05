@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WatchFace version="1.0">
+	<WatchFaceItem type="background" config="@wfz/background/01.png"/>
+  <WatchFaceItem type="statusbar" y="266" />
+  <WatchFaceItem type="timedigital" x="72" y="56" width="175" height="88" font="@wfz/font" />
+</WatchFace>

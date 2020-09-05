@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>roger claude</author>
+	<designer>roger claude</designer>
+	<title>The-last-ou-us</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>The-last-ou-us (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:88, color:#ffffff, xoffset:0, yoffset:0, bg:/var/lib/php5/sessions/jdbu2v4ijpme4ds2l2h36s9645/blob]
+    [cmdline: " -n 'The-last-ou-us' -f 'font.ttf' -s '88' -c '#ffffff' -b '#000000' -a 'roger claude' -x '0' -g '400' -y '0' -t '09:33' -0 'false' -1 'false' -2 'false' -3 'false' -4 'false' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A '+115+190' -B 'false' -C 'false' -D 'false' -E 'false' -F 'false' -q '0' -u '/var/lib/php5/sessions/jdbu2v4ijpme4ds2l2h36s9645/blob' -d --hour_image '/var/www/sawfb/public/parts/hours/hour3.png' --minute_image '/var/www/sawfb/public/parts/minutes/minute3.png' --second_image '/var/www/sawfb/public/parts/seconds/second39.png' --" ]
+  </description>
+</watchfaceinfo>

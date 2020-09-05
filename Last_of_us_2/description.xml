@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>roger claude</author>
+	<designer>roger claude</designer>
+	<title>Last-of-us-2</title>
+	<basedOn>Last-of-Us-2</basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>Last-of-us-2 (auto-generated with SAWFB (Simple Amazfit WatchFace Builder), https://sawfb.fabiobarbon.click/)
+    [font:font.ttf, size:116, color:#ffffff, xoffset:0, yoffset:-60, bg:/var/lib/php5/sessions/jdbu2v4ijpme4ds2l2h36s9645/blob]
+    [cmdline: " -n 'Last-of-us-2' -f 'font.ttf' -s '116' -c '#ffffff' -b '#000000' -a 'roger claude' -x '0' -g '266' -y '-60' -t '00:15' -0 'false' -1 'false' -2 'false' -3 'false' -4 'false' -5 'false' -6 'false' -7 'false' -8 'false' -9 'false' -A 'false' -B 'false' -C 'false' -D 'false' -E 'false' -F 'false' -q '1' -u '/var/lib/php5/sessions/jdbu2v4ijpme4ds2l2h36s9645/blob' --based_on 'Last-of-Us-2' --" ]
+  </description>
+</watchfaceinfo>
