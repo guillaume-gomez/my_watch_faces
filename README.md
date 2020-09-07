@@ -33,3 +33,6 @@ The different watchface i made for my smartwatch
 
 ## Jim Morrison
 ![preview](Jim-Morrison/sample-face.png)
+
+## Last_of_us_2
+![preview](Last_of_us_2/sample-face.png)
