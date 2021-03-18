@@ -1,5 +1,5 @@
 # My watch faces
-The different watchface i made for my smartwatch
+The different watchfaces I made for my smartwatch
 
 ## test
 ![test](Test/sample-face.png)
